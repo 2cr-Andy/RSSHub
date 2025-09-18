@@ -7538,9 +7538,7 @@
   "/supchina/podcasts": [
     "nczitzk"
   ],
-  "/surfshark/blog/:category{.+}?": [
-    "nczitzk"
-  ],
+  "/surfshark/blog/:category{.+}?": [],
   "/sustainabilitymag/articles": [
     "mintyfrankie"
   ],
@@ -7731,7 +7729,7 @@
   "/telegram/blog": [
     "fengkx"
   ],
-  "/telegram/media/:entityName/:messageId": [
+  "/telegram/channel/:entityName/:messageId": [
     "synchrone"
   ],
   "/telegram/channel/:username/:routeParams?": [
